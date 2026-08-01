@@ -1,8 +1,0 @@
-streamlit
-# Core data stack
-pandas
-numpy
-# Market data providers
-yfinance
-fredapi
-plotly
