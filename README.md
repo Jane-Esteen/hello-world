@@ -7,3 +7,4 @@ VS Code branch practice: I made this change on my own branch.
 KEEP CHANGE: this line should stay.
 UNDO COMMIT PRACTICE: I fixed this change after undoing the commit.
 FEATURE BRANCH WORK: I am working on my own branch.
+MAIN BRANCH UPDATE: simulated teammate change.
