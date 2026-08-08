@@ -1,3 +1,7 @@
+with t1 (
+    select emp_code,emp_name from gdl.tt_emp_info
+)
+select * from t1;
 select a
 from b
 where inc_day = 'AB';
