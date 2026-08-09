@@ -29,3 +29,5 @@ join products p
 join suppliers s
     on p.supplier_id = s.supplier_id
 where o.order_date >= date '2026-01-01';
+
+select 1;
