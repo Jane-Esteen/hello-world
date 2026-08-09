@@ -12,3 +12,5 @@ OPEN PR PRACTICE: final version after review.
 add one line
 
 add line 2
+
+select 1;
